@@ -1,1 +1,2 @@
 # NFT_superhero
+I am presenting my JavaScript project called NFT Superhero Collection as an assessment of the Metacrafters. This project is a JavaScript program that allows users to mint and manage a collection of superhero-themed NFTs (Non-Fungible Tokens). The program uses an array called NFTs to store the NFT objects, which contain metadata such as real name, superpower, speed, biggest fight, and superhero name.
